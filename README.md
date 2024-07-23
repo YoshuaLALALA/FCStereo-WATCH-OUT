@@ -1,4 +1,4 @@
-Zhang  Jiawei, the author of paper "CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization",  has deleted experimental data and code belonging to several of his lab members.
+Zhang  Jiawei, the author of the paper FCStereo,  has deleted experimental data and code belonging to several of his lab members.
 
 Zhang Jiawei also deleted all related issues and comments on Github.
 
